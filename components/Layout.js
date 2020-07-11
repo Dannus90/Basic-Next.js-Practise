@@ -15,7 +15,7 @@ const Layout = ({ children, title }) => {
     return (
         <div className="root">
             <Head>
-                <title>Next Portfolio</title>
+                <title>Next Basic Practise</title>
             </Head>
             <header>
                 <Link href="/">
