@@ -15,4 +15,4 @@ const Post = ({ router }) => {
     );
 };
 
-export default withRouhter(Post);
+export default withRouter(Post);
